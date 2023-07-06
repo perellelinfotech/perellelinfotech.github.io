@@ -130,7 +130,7 @@ a {
   text-decoration: none;
 }
 
-img { height: 40px; }
+img { height: 100%; }
 
 input,
 button {
