@@ -225,7 +225,9 @@ body {
   background-color: var(--mustard);
   z-index: -1;
 }
-
+.logo{
+  height: 40px;
+}
 .btn {
   max-width: max-content;
   font-weight: var(--fw-700);
